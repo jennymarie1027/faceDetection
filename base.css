@@ -54,6 +54,10 @@ html {
     background-size: 15px;
   }
   
+  video {
+    max-width: 70%;
+    margin: auto;
+  }
   
   /* Table Styles */
   
